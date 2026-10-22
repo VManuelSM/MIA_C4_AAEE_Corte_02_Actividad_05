@@ -1,0 +1,17 @@
+instancia,prueba,estadistico,p,mejor,rangos,p_holm,empatadas
+I13,"Friedman, 3 representaciones",1.6521739130434585,0.4377589088697972,claves,"{""permutacion"": 2.033, ""lehmer"": 2.05, ""claves"": 1.917}","{""permutacion"": 0.20494, ""lehmer"": 0.75183}","permutacion, lehmer"
+I13,Wilcoxon permutacion vs búsqueda aleatoria,1.2953367875647723,2.239096977902881e-05,permutacion,,,
+I13,Wilcoxon lehmer vs búsqueda aleatoria,1.1334196891191726,4.865241978721277e-06,lehmer,,,
+I13,Wilcoxon claves vs búsqueda aleatoria,1.2953367875647723,9.78106915793018e-06,claves,,,
+A17,"Friedman, 3 representaciones",47.552631578947384,4.721470196757636e-11,permutacion,"{""permutacion"": 1.55, ""lehmer"": 2.817, ""claves"": 1.633}","{""lehmer"": 2e-05, ""claves"": 0.1573}",claves
+A17,Wilcoxon permutacion vs búsqueda aleatoria,1.544100179862242,1.7278603148724105e-06,permutacion,,,
+A17,Wilcoxon lehmer vs búsqueda aleatoria,1.1283809006685408,4.283187254624714e-06,lehmer,,,
+A17,Wilcoxon claves vs búsqueda aleatoria,1.544100179862242,1.7278603148724105e-06,claves,,,
+G87,"Friedman, 3 representaciones",19.399999999999977,6.12834950532228e-05,claves,"{""permutacion"": 2.167, ""lehmer"": 2.467, ""claves"": 1.367}","{""permutacion"": 0.00237, ""lehmer"": 1e-05}",
+G87,Wilcoxon permutacion vs búsqueda aleatoria,20.48279030161792,1.862645149230957e-09,permutacion,,,
+G87,Wilcoxon lehmer vs búsqueda aleatoria,19.417118570638966,1.862645149230957e-09,lehmer,,,
+G87,Wilcoxon claves vs búsqueda aleatoria,21.94333647051795,1.862645149230957e-09,claves,,,
+E155,"Friedman, 3 representaciones",51.666666666666686,6.035675523560165e-12,claves,"{""permutacion"": 2.167, ""lehmer"": 2.833, ""claves"": 1.0}","{""permutacion"": 0.0, ""lehmer"": 0.0}",
+E155,Wilcoxon permutacion vs búsqueda aleatoria,26.289182303761372,1.862645149230957e-09,permutacion,,,
+E155,Wilcoxon lehmer vs búsqueda aleatoria,22.800661328597457,1.862645149230957e-09,lehmer,,,
+E155,Wilcoxon claves vs búsqueda aleatoria,30.325753746347527,1.862645149230957e-09,claves,,,

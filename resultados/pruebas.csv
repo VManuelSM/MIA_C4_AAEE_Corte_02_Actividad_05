@@ -1,0 +1,17 @@
+prueba,descripcion,resultado
+01,Evaluación vectorizada idéntica a la escalar,pasó
+02,Un plan resuelto a mano,pasó
+03,"Lehmer es biyectiva: todas las permutaciones de T08 van y vuelven, y todos los códigos válidos son distintos",pasó
+04,Claves reales: argsort reproduce el plan y claves distintas dan el mismo plan,pasó
+05,"Reparación: factible, idempotente, igual a la escalar y sin mover lo que no hace falta",pasó
+06,Referencia exacta: enumeración completa de T08 y un caso resuelto a mano,pasó
+07,Referencia exacta en H11 coincide con una enumeración por muestreo acotado de planes factibles,pasó
+08,Inicios emparejados: la misma semilla da los mismos planes en las tres codificaciones,pasó
+09,M01 sobre permutaciones es uniforme: cada ficha ocupa cada posición con frecuencia ≈ 1/n,pasó
+10,M12: el torneo lo gana el de menor costo; un empate lo gana el primero sorteado,pasó
+11,OX conserva permutaciones y hereda el segmento del primer padre; M14 conserva los dominios de Lehmer,pasó
+12,Las tres mutaciones conservan la validez y cambian exactamente un gen (dos posiciones en el intercambio),pasó
+13,M22 conserva a los e mejores y M26 respeta el presupuesto,pasó
+14,"Integración: presupuesto N + G(N − e), reproducibilidad y plan auditado en las tres codificaciones",pasó
+15,Líneas base: reglas reparadas y factibles; búsqueda aleatoria con presupuesto exacto y reproducible,pasó
+16,El ejemplo común decodifica al mismo plan en las tres codificaciones y es factible,pasó

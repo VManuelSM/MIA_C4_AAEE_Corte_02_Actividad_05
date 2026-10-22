@@ -1,0 +1,466 @@
+metodo,orden,idtram,nombre,dependencia,p,d,w,C,T
+vencimiento,1,10059,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,3.0,3.0
+vencimiento,2,10057,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,6.0,6.0
+vencimiento,3,10040,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,9.0,9.0
+vencimiento,4,10041,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,1.0,12.0,12.0
+vencimiento,5,10058,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,14.0,14.0
+vencimiento,6,10060,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,16.0,16.0
+vencimiento,7,10061,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,1.0,18.0,18.0
+vencimiento,8,10063,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,20.0,20.0
+vencimiento,9,10062,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,22.0,22.0
+vencimiento,10,10064,Solicitud de factibilidad para la contratación del servicio ,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,25.0,25.0
+vencimiento,11,10107,Constancia de Servicio Social (ITSOEH),Instituto Tecnológico Superior del Occidente del Estado de Hidalgo,2.0,12.1,4.0,28.0,15.9
+vencimiento,12,11895,Uso de la Plataforma Naturalista,Comisión Estatal de Biodiversidad de Hidalgo,1.5,12.1,2.0,30.5,18.4
+vencimiento,13,10941,Apoyo Para el Bienestar y Desarrollo,Secretaría de Bienestar e Inclusión Social,3.5,12.9,4.0,35.0,22.1
+vencimiento,14,10926,Padrón de las personas artesanas Hidalguenses,Secretaría de Bienestar e Inclusión Social,2.0,12.9,4.0,37.0,24.1
+vencimiento,15,11120,Bienestar de Madres Trabajadoras,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,41.5,28.6
+vencimiento,16,11185,Formación con perspectiva de discapacidad,Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,44.0,31.1
+vencimiento,17,11186,Atención Integral para personas con discapacidad,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,46.5,33.6
+vencimiento,18,11187,"Invierte en ti, Invierte en Hidalgo",Secretaría de Bienestar e Inclusión Social,5.5,12.9,4.0,52.0,39.1
+vencimiento,19,11217,Interpretación de Lengua de Señas Mexicana,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,54.5,41.6
+vencimiento,20,11366,Programa de Subsidio al Servicio de Verificación Vehicular,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,59.0,46.1
+vencimiento,21,11367,Apoyo Económico para Documentos Internacionales,Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,61.5,48.6
+vencimiento,22,11368,Apoyo Economico a Personas Migrantes Hidalguenses en Materia,Secretaría de Bienestar e Inclusión Social,2.0,12.9,3.0,63.5,50.6
+vencimiento,23,11371,Apoyo Económico a Migrantes Hidalguenses por Repatriación o ,Secretaría de Bienestar e Inclusión Social,2.0,12.9,4.0,65.5,52.6
+vencimiento,24,11372,Bienestar de Personas Cuidadoras de Personas con Discapacida,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,70.0,57.1
+vencimiento,25,11373,Apoyo Económico para Migrantes Hidalguenses por Vulnerabilid,Secretaría de Bienestar e Inclusión Social,2.0,12.9,3.0,72.0,59.1
+vencimiento,26,1185,Registro de Marca,Secretaría de Bienestar e Inclusión Social,4.0,12.9,4.0,76.0,63.1
+vencimiento,27,1186,Asignación de espacios eventos y exposiciones Municipales,Secretaría de Bienestar e Inclusión Social,5.0,12.9,3.0,81.0,68.1
+vencimiento,28,1188,Asignación de espacios (Punto de venta HIDARTE),Secretaría de Bienestar e Inclusión Social,5.0,12.9,4.0,86.0,73.1
+vencimiento,29,1625,"Servicios de Información a Actores Sociales, Integrantes de ",Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,88.5,75.6
+vencimiento,30,7694,"Reencuentro Familiar ""Raices Hidalgo""",Secretaría de Bienestar e Inclusión Social,5.5,12.9,4.0,94.0,81.1
+vencimiento,31,7697,"Oficina Itinerante ""Primero el Pueblo, Primero los Migrantes",Secretaría de Bienestar e Inclusión Social,6.0,12.9,4.0,100.0,87.1
+vencimiento,32,933,"Doble nacionalidad ""Ya Soy Hidalguense"" (Totalmente gratuito",Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,102.5,89.6
+vencimiento,33,959,Traslados de Restos Mortuorios,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,105.0,92.1
+vencimiento,34,1415,Expedición de actas de nacimiento interestatales.,Secretaría de Gobierno,1.5,16.4,3.0,107.5,91.1
+vencimiento,35,565,Visitas de Factibilidad para: Estudio y Proyecto de Agua Pot,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,4.0,110.5,93.4
+vencimiento,36,11827,ANÁLISIS FÍSICO QUÍMICO Y BACTERIOLÓGICO DEL AGUA,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,2.0,112.5,95.4
+vencimiento,37,986,Certificado de Inscripción (Registro Público de la Propiedad,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,116.0,98.1
+vencimiento,38,1000,Inscripción de Aportaciones de Bienes Inmuebles. (Registro P,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,118.5,100.6
+vencimiento,39,1002,Inscripción de Compra-Venta a Plazos con Reserva de Dominio.,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,121.0,103.1
+vencimiento,40,1003,Inscripción de Contratos que Transmiten la Propiedad de Mueb,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,123.5,105.6
+vencimiento,41,1004,"Inscripción de Convenios para Fraccionar, Lotificar o Subdiv",Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,125.5,107.6
+vencimiento,42,1005,Inscripción de Créditos Refaccionarios de Habilitación o Aví,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,127.5,109.6
+vencimiento,43,1006,Inscripción de Cualquier Clase de Testamento. (Registro Públ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,129.5,111.6
+vencimiento,44,1007,Inscripción de Cualquier Otro Título Registrable Conforme a ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,131.5,113.6
+vencimiento,45,1009,Inscripción de Disolución de la Sociedad Conyugal en lo Refe,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,134.5,116.6
+vencimiento,46,1010,Inscripción de División de Copropiedad. (Registro Público de,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,137.0,119.1
+vencimiento,47,1011,Inscripción de Documentos de Valor Determinado Referente a S,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,139.0,121.1
+vencimiento,48,1013,"Inscripción de Emisión de Obligaciones, Acciones, Cédula y C",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,141.0,123.1
+vencimiento,49,1014,Inscripción de Escrituras Constitutivas de Personas Morales ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,143.0,125.1
+vencimiento,50,1044,Inscripción de Fusión de Predios. (Registro Público de la Pr,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,145.5,127.6
+vencimiento,51,1045,Inscripción de Fusión de Sociedades. (Registro Público de la,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,147.5,129.6
+vencimiento,52,1046,Inscripción de Informaciones Posesorías. (Registro Público d,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,149.5,131.6
+vencimiento,53,1047,Inscripción de Inmatriculación. (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,152.5,134.6
+vencimiento,54,1048,Inscripción de la Autorización para Vender o Gravar Bienes d,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,155.5,137.6
+vencimiento,55,1050,Inscripción de la Cancelación de Créditos Otorgados por Inst,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,157.5,139.6
+vencimiento,56,1053,Inscripción de la Modificación al Acta Constitutiva que no I,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,159.5,141.6
+vencimiento,57,1056,Inscripción de Limitaciones o Gravámenes a la Propiedad de I,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,162.0,144.1
+vencimiento,58,1057,Inscripción de Operaciones que Limiten o Graven Bienes Inmue,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,164.0,146.1
+vencimiento,59,1058,Inscripción de Poderes Civiles y Sustituciones (Registro Púb,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,166.0,148.1
+vencimiento,60,1059,Inscripción de Poderes. (Registro Público de la Propiedad y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,168.0,150.1
+vencimiento,61,1061,Inscripción de Providencias Precautorias de Carácter Mercant,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,170.0,152.1
+vencimiento,62,1062,Inscripción de Resoluciones de Información Ad Perpetuam. (Re,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,172.5,154.6
+vencimiento,63,1063,Inscripción de Revocación o Renuncia de Poderes. (Registro P,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,174.5,156.6
+vencimiento,64,1065,Inscripción de Suspensión de Pagos o Declaración de Concurso,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,176.5,158.6
+vencimiento,65,1066,Inscripción de Todas las Operaciones que Impliquen Transmisi,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,179.5,161.6
+vencimiento,66,609,Entrega de paquetes de Conejos.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,183.0,165.1
+vencimiento,67,10661,Servicios y Entrega de Apoyos sobre la Cadena Productiva Caf,Secretaría de Agricultura y Desarrollo Rural,1.5,17.9,4.0,184.5,166.6
+vencimiento,68,1067,Inscripción del Auto de Ejecución de Embargo. (Registro Públ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,187.5,169.6
+vencimiento,69,1068,Inscripción de Régimen de Propiedad en Condominio. (Registro,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,190.0,172.1
+vencimiento,70,1070,Inscripción por Asociación en Participación. (Registro Públi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,192.0,174.1
+vencimiento,71,1071,Inscripción por Constitución del Patrimonio Familiar. (Regis,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,194.0,176.1
+vencimiento,72,1073,Inscripción en Repudio de Herencia. (Registro Público de la ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,196.0,178.1
+vencimiento,73,1074,Ratificación de firmas. (Registro Público de la Propiedad y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,198.0,180.1
+vencimiento,74,1096,Sustitución del Cargo de Albacea. (Registro Público de la Pr,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,200.0,182.1
+vencimiento,75,10981,"Inscripción de la Designación, Aceptación o Discernimiento d",Dirección General del Instituto de la Función Registral,2.0,17.9,2.0,202.0,184.1
+vencimiento,76,11213,"Inscripción de la Disolución, liquidación y de Ambas cuando ",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,204.0,186.1
+vencimiento,77,11216,Inscripción o Anotación que no Modifica el Derecho Inscrito ,Dirección General del Instituto de la Función Registral,2.0,17.9,1.0,206.0,188.1
+vencimiento,78,11837,Por búsqueda de antecedentes registrales a nombre de persona,Dirección General del Instituto de la Función Registral,1.5,17.9,4.0,207.5,189.6
+vencimiento,79,1572,Constitución de Grupos de Productores/as de Leche.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,210.5,192.6
+vencimiento,80,1573,Capacitación en Nutrición y Manejo de Ganado Lechero.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,212.5,194.6
+vencimiento,81,1574,Capacitación en Inseminación Artificial en Bovinos leche.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,3.0,215.0,197.1
+vencimiento,82,1575,Capacitación en elaboración de quesos y derivados lácteos.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,4.0,217.0,199.1
+vencimiento,83,1780,Laboratorio de Constatación de Leche.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,219.0,201.1
+vencimiento,84,1781,Captación de Leche en Centros de Acopio.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,4.0,221.0,203.1
+vencimiento,85,5041,Inscripción De las Demás Zonas por división (Registro Públic,Dirección General del Instituto de la Función Registral,2.5,17.9,3.0,224.5,206.6
+vencimiento,86,5048,Inscripción de Actos Cuando se Presenten en Documentos Separ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,226.5,208.6
+vencimiento,87,5055,Certificaciones. (Registro Público de la Propiedad y del Com,Dirección General del Instituto de la Función Registral,1.5,17.9,4.0,228.0,210.1
+vencimiento,88,5056,Cancelación de Inscripción. (Registro Público de la Propieda,Dirección General del Instituto de la Función Registral,1.5,17.9,3.0,229.5,211.6
+vencimiento,89,5061,"Por cada Foja Digitalizada, Archivo Informático y Disco Ópti",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,231.5,213.6
+vencimiento,90,674,Capacitación Acuícola y Pesquera,Secretaría de Agricultura y Desarrollo Rural,3.0,17.9,4.0,235.5,217.6
+vencimiento,91,7628,"Componente Rehabilitación, Tecnificación y Equipamiento de D",Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,237.5,219.6
+vencimiento,92,7629,Componente Equipamiento de Distritos de Riego.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,3.0,240.0,222.1
+vencimiento,93,7632,"Componente Rehabilitación, Tecnificación y Equipamiento de U",Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,242.5,224.6
+vencimiento,94,8865,Asistencia Técnica y Capacitación Pecuaria.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,245.0,227.1
+vencimiento,95,8867,Siembra de Crías de Peces.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,247.5,229.6
+vencimiento,96,9075,"Asesoría técnica, especializada en agricultura sustentable.",Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,250.0,232.1
+vencimiento,97,971,Cancelación de Actos Jurídicos (Registro Público de la Propi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,253.0,235.1
+vencimiento,98,973,Cotejo de Documentos No Autentificados que deben Destinarse ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,255.0,237.1
+vencimiento,99,976,Depósito de Testamento Ológrafo (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,257.0,239.1
+vencimiento,100,980,Devolución de un Documento sin Inscripción por Causas No Imp,Dirección General del Instituto de la Función Registral,1.5,17.9,3.0,258.5,240.6
+vencimiento,101,983,Certificado de Existencia o Inexistencia de Gravamen (Regist,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,261.0,243.1
+vencimiento,102,987,Certificado de No Inscripción (Registro Público de la Propie,Dirección General del Instituto de la Función Registral,3.5,17.9,4.0,264.5,246.6
+vencimiento,103,989,Certificado de Única Propiedad (Registro Público de la Propi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,266.5,248.6
+vencimiento,104,990,Expedición de Copias Certificadas en Libros (del año 2015 y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,268.5,250.6
+vencimiento,105,991,Informes sobre Inscripción de Testamentos (Registro Público ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,270.5,252.6
+vencimiento,106,992,Inscripción de Accesión de Construcciones (Registro Público ,Dirección General del Instituto de la Función Registral,2.5,17.9,3.0,273.0,255.1
+vencimiento,107,993,Inscripción de Accesión de Terrenos Rústicos (Registro Públi,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,275.5,257.6
+vencimiento,108,996,Inscripción de Actas de Asamblea de Socios o Juntas de admin,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,277.5,259.6
+vencimiento,109,997,"Inscripción de Actos Mercantiles, Rectificación (Registro Pú",Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,279.5,261.6
+vencimiento,110,9974,Préstamo con maquinaria especializada para la nivelación de ,Secretaría de Agricultura y Desarrollo Rural,3.0,17.9,4.0,283.5,265.6
+vencimiento,111,998,Inscripción de Apeo o Deslinde. (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,286.5,268.6
+vencimiento,112,8863,Asesoría presencial y a distancia para la Constitución de So,Secretaría de Agricultura y Desarrollo Rural,2.5,19.3,3.0,290.0,270.7
+vencimiento,113,8952,Credencial de Afiliación del IAAMEH,Instituto para la Atención de las y los Adultos Mayores,2.5,19.3,3.0,293.5,274.2
+vencimiento,114,5418,Trámites Ciudadanos,Ciudad de las Mujeres,2.5,26.4,4.0,297.0,270.6
+vencimiento,115,10824,Servicios de Ginecología,Ciudad de las Mujeres,1.5,26.4,3.0,298.5,272.1
+vencimiento,116,5077,Servicios de Medicina General.,Ciudad de las Mujeres,1.5,26.4,3.0,300.0,273.6
+vencimiento,117,5087,Servicios de Nutrición,Ciudad de las Mujeres,1.5,26.4,3.0,301.5,275.1
+vencimiento,118,5089,Servicios de Odotología,Ciudad de las Mujeres,1.5,26.4,3.0,303.0,276.6
+vencimiento,119,5091,Servicios de Psicología,Ciudad de las Mujeres,1.5,26.4,3.0,304.5,278.1
+vencimiento,120,5205,Consejería en Salud Sexual y Reproductiva para Mujeres Jóven,Ciudad de las Mujeres,1.5,26.4,3.0,306.0,279.6
+vencimiento,121,5206,Servicios de Psicología para Mujeres Jóvenes.,Ciudad de las Mujeres,1.5,26.4,3.0,307.5,281.1
+vencimiento,122,5207,Orientación Vocacional a Mujeres Jóvenes.,Ciudad de las Mujeres,1.5,26.4,3.0,309.0,282.6
+vencimiento,123,5211,Servicios de Fisioterapia y Rehabilitación (SG/CDM/DAS/05),Ciudad de las Mujeres,2.0,26.4,3.0,311.0,284.6
+vencimiento,124,5212,Servicios que promueven la Igualdad entre Mujeres y Hombres,Ciudad de las Mujeres,1.5,26.4,3.0,312.5,286.1
+vencimiento,125,5343,Atención Temporal a Niñas y Niños acompañantes de usuarias,Ciudad de las Mujeres,1.5,26.4,3.0,314.0,287.6
+vencimiento,126,5351,Asesoría de Emprendimiento y Autoempleo,Ciudad de las Mujeres,2.5,26.4,3.0,316.5,290.1
+vencimiento,127,5419,Asesoría para el Ingreso al Empleo Formal,Ciudad de las Mujeres,2.5,26.4,3.0,319.0,292.6
+vencimiento,128,5420,Servicios de Capacitación y Actividades para el Desarrollo y,Ciudad de las Mujeres,2.5,26.4,3.0,321.5,295.1
+vencimiento,129,6251,Atención Jurídica en Materia Familiar y Penal a Mujeres en S,Ciudad de las Mujeres,5.0,26.4,3.0,326.5,300.1
+vencimiento,130,6256,Atención de Trabajo Social a Mujeres en Situación de Violenc,Ciudad de las Mujeres,2.0,26.4,3.0,328.5,302.1
+vencimiento,131,8181,Servicios de Trabajo Social,Ciudad de las Mujeres,2.0,26.4,3.0,330.5,304.1
+vencimiento,132,8184,Servicios orientados al bienestar de la Niñez.,Ciudad de las Mujeres,2.0,26.4,2.0,332.5,306.1
+vencimiento,133,8340,Atención Psicológica a Mujeres en Situación de Violencia de ,Ciudad de las Mujeres,2.0,26.4,3.0,334.5,308.1
+vencimiento,134,8682,Acompañamiento y/o Asistencia a la salud a Mujeres en Situac,Ciudad de las Mujeres,1.5,26.4,3.0,336.0,309.6
+vencimiento,135,8685,Servicios Auxiliar Diagnóstico,Ciudad de las Mujeres,2.0,26.4,3.0,338.0,311.6
+vencimiento,136,8686,Recepción de la Niñez y Mujeres que soliciten los servicios ,Ciudad de las Mujeres,1.5,26.4,2.0,339.5,313.1
+vencimiento,137,8687,"Orientación a Mujeres, que soliciten los servicios brindados",Ciudad de las Mujeres,1.5,26.4,3.0,341.0,314.6
+vencimiento,138,8688,Servicios de Sensibilización y desarrollo de habilidades par,Ciudad de las Mujeres,1.5,26.4,2.0,342.5,316.1
+vencimiento,139,8689,"Asesorias a Mujeres Jóvenes, que soliciten los servicios bri",Ciudad de las Mujeres,1.5,26.4,3.0,344.0,317.6
+vencimiento,140,1189,Certificados de autenticidad de productos artesanales,Secretaría de Bienestar e Inclusión Social,5.0,29.3,3.0,350.0,320.7
+vencimiento,141,1547,Levantamiento Topográfico de poligonales (Catastral),Instituto Catastral,3.0,36.4,4.0,354.0,317.6
+vencimiento,142,10079,Refrendo anual perito topográfo,Instituto Catastral,2.5,36.4,3.0,356.5,320.1
+vencimiento,143,7679,Transporte Público Masivo de Pasajeros Tuzobús.,Sistema de Transporte Masivo de Hidalgo,2.0,37.9,4.0,359.5,321.6
+vencimiento,144,1502,"Reportes, Quejas y Sugerencias del Servicio Tuzobús",Sistema de Transporte Masivo de Hidalgo,9.0,37.9,4.0,368.5,330.6
+vencimiento,145,12012,Emisión de factura CFDI.,Comisión Estatal de Agua y Alcantarillado,3.0,38.6,2.0,372.5,333.9
+vencimiento,146,12029,Entidad de Certificación y Evaluación Instituto Hidalguense ,Instituto Hidalguense para el Desarrollo Municipal,2.0,39.3,2.0,375.5,336.2
+vencimiento,147,11158,Impuesto sobre Tenencia y Refrendo Vehicular (transporte púb,Secretaría de Hacienda,6.0,41.4,4.0,382.5,341.1
+vencimiento,148,1706,Declaración de Impuestos Estatales,Secretaría de Hacienda,3.0,41.4,4.0,385.5,344.1
+vencimiento,149,1715,Pago de Créditos Fiscales Estatales,Secretaría de Hacienda,3.5,41.4,4.0,389.0,347.6
+vencimiento,150,1717,Pago de Créditos Fiscales Federales Coordinados,Secretaría de Hacienda,4.5,41.4,4.0,393.5,352.1
+vencimiento,151,7449,Recurso de Revocación Estatal,Secretaría de Hacienda,2.0,41.4,4.0,395.5,354.1
+vencimiento,152,7477,Recurso de Revocación Federal,Secretaría de Hacienda,2.0,41.4,3.0,397.5,356.1
+vencimiento,153,7490,Pago a plazos o en parcialidades de Créditos Fiscales radica,Secretaría de Hacienda,4.0,41.4,3.0,401.5,360.1
+vencimiento,154,7492,Pago de Créditos Fiscales derivado de multas estatales no fi,Secretaría de Hacienda,2.0,41.4,3.0,403.5,362.1
+vencimiento,155,9919,Garantias del Interes Fiscal (Estatal),Secretaría de Hacienda,16.0,41.4,3.0,419.5,378.1
+peso_sobre_tiempo,1,609,Entrega de paquetes de Conejos.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,3.5,0.0
+peso_sobre_tiempo,2,10661,Servicios y Entrega de Apoyos sobre la Cadena Productiva Caf,Secretaría de Agricultura y Desarrollo Rural,1.5,17.9,4.0,5.0,0.0
+peso_sobre_tiempo,3,986,Certificado de Inscripción (Registro Público de la Propiedad,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,8.5,0.0
+peso_sobre_tiempo,4,11837,Por búsqueda de antecedentes registrales a nombre de persona,Dirección General del Instituto de la Función Registral,1.5,17.9,4.0,10.0,0.0
+peso_sobre_tiempo,5,5055,Certificaciones. (Registro Público de la Propiedad y del Com,Dirección General del Instituto de la Función Registral,1.5,17.9,4.0,11.5,0.0
+peso_sobre_tiempo,6,1004,"Inscripción de Convenios para Fraccionar, Lotificar o Subdiv",Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,13.5,0.0
+peso_sobre_tiempo,7,1006,Inscripción de Cualquier Clase de Testamento. (Registro Públ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,15.5,0.0
+peso_sobre_tiempo,8,10107,Constancia de Servicio Social (ITSOEH),Instituto Tecnológico Superior del Occidente del Estado de Hidalgo,2.0,12.1,4.0,18.5,6.4
+peso_sobre_tiempo,9,1014,Inscripción de Escrituras Constitutivas de Personas Morales ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,21.5,3.6000000000000014
+peso_sobre_tiempo,10,1045,Inscripción de Fusión de Sociedades. (Registro Público de la,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,23.5,5.600000000000001
+peso_sobre_tiempo,11,1053,Inscripción de la Modificación al Acta Constitutiva que no I,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,25.5,7.600000000000001
+peso_sobre_tiempo,12,1058,Inscripción de Poderes Civiles y Sustituciones (Registro Púb,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,27.5,9.600000000000001
+peso_sobre_tiempo,13,1059,Inscripción de Poderes. (Registro Público de la Propiedad y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,29.5,11.600000000000001
+peso_sobre_tiempo,14,1061,Inscripción de Providencias Precautorias de Carácter Mercant,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,31.5,13.600000000000001
+peso_sobre_tiempo,15,1063,Inscripción de Revocación o Renuncia de Poderes. (Registro P,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,33.5,15.600000000000001
+peso_sobre_tiempo,16,1067,Inscripción del Auto de Ejecución de Embargo. (Registro Públ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,35.5,17.6
+peso_sobre_tiempo,17,1070,Inscripción por Asociación en Participación. (Registro Públi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,37.5,19.6
+peso_sobre_tiempo,18,1071,Inscripción por Constitución del Patrimonio Familiar. (Regis,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,39.5,21.6
+peso_sobre_tiempo,19,1073,Inscripción en Repudio de Herencia. (Registro Público de la ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,41.5,23.6
+peso_sobre_tiempo,20,1074,Ratificación de firmas. (Registro Público de la Propiedad y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,43.5,25.6
+peso_sobre_tiempo,21,5418,Trámites Ciudadanos,Ciudad de las Mujeres,2.5,26.4,4.0,47.0,20.6
+peso_sobre_tiempo,22,10824,Servicios de Ginecología,Ciudad de las Mujeres,1.5,26.4,3.0,48.5,22.1
+peso_sobre_tiempo,23,10941,Apoyo Para el Bienestar y Desarrollo,Secretaría de Bienestar e Inclusión Social,3.5,12.9,4.0,53.0,40.1
+peso_sobre_tiempo,24,10926,Padrón de las personas artesanas Hidalguenses,Secretaría de Bienestar e Inclusión Social,2.0,12.9,4.0,55.0,42.1
+peso_sobre_tiempo,25,11371,Apoyo Económico a Migrantes Hidalguenses por Repatriación o ,Secretaría de Bienestar e Inclusión Social,2.0,12.9,4.0,57.0,44.1
+peso_sobre_tiempo,26,1415,Expedición de actas de nacimiento interestatales.,Secretaría de Gobierno,1.5,16.4,3.0,59.5,43.1
+peso_sobre_tiempo,27,1575,Capacitación en elaboración de quesos y derivados lácteos.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,4.0,62.5,44.6
+peso_sobre_tiempo,28,1781,Captación de Leche en Centros de Acopio.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,4.0,64.5,46.6
+peso_sobre_tiempo,29,5056,Cancelación de Inscripción. (Registro Público de la Propieda,Dirección General del Instituto de la Función Registral,1.5,17.9,3.0,67.0,49.1
+peso_sobre_tiempo,30,5077,Servicios de Medicina General.,Ciudad de las Mujeres,1.5,26.4,3.0,69.5,43.1
+peso_sobre_tiempo,31,5087,Servicios de Nutrición,Ciudad de las Mujeres,1.5,26.4,3.0,71.0,44.6
+peso_sobre_tiempo,32,5089,Servicios de Odotología,Ciudad de las Mujeres,1.5,26.4,3.0,72.5,46.1
+peso_sobre_tiempo,33,5091,Servicios de Psicología,Ciudad de las Mujeres,1.5,26.4,3.0,74.0,47.6
+peso_sobre_tiempo,34,5205,Consejería en Salud Sexual y Reproductiva para Mujeres Jóven,Ciudad de las Mujeres,1.5,26.4,3.0,75.5,49.1
+peso_sobre_tiempo,35,5206,Servicios de Psicología para Mujeres Jóvenes.,Ciudad de las Mujeres,1.5,26.4,3.0,77.0,50.6
+peso_sobre_tiempo,36,5207,Orientación Vocacional a Mujeres Jóvenes.,Ciudad de las Mujeres,1.5,26.4,3.0,78.5,52.1
+peso_sobre_tiempo,37,5212,Servicios que promueven la Igualdad entre Mujeres y Hombres,Ciudad de las Mujeres,1.5,26.4,3.0,80.0,53.6
+peso_sobre_tiempo,38,5343,Atención Temporal a Niñas y Niños acompañantes de usuarias,Ciudad de las Mujeres,1.5,26.4,3.0,81.5,55.1
+peso_sobre_tiempo,39,565,Visitas de Factibilidad para: Estudio y Proyecto de Agua Pot,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,4.0,84.5,67.4
+peso_sobre_tiempo,40,11158,Impuesto sobre Tenencia y Refrendo Vehicular (transporte púb,Secretaría de Hacienda,6.0,41.4,4.0,91.5,50.1
+peso_sobre_tiempo,41,7449,Recurso de Revocación Estatal,Secretaría de Hacienda,2.0,41.4,4.0,93.5,52.1
+peso_sobre_tiempo,42,7679,Transporte Público Masivo de Pasajeros Tuzobús.,Sistema de Transporte Masivo de Hidalgo,2.0,37.9,4.0,96.5,58.6
+peso_sobre_tiempo,43,8682,Acompañamiento y/o Asistencia a la salud a Mujeres en Situac,Ciudad de las Mujeres,1.5,26.4,3.0,99.0,72.6
+peso_sobre_tiempo,44,8687,"Orientación a Mujeres, que soliciten los servicios brindados",Ciudad de las Mujeres,1.5,26.4,3.0,100.5,74.1
+peso_sobre_tiempo,45,8689,"Asesorias a Mujeres Jóvenes, que soliciten los servicios bri",Ciudad de las Mujeres,1.5,26.4,3.0,102.0,75.6
+peso_sobre_tiempo,46,971,Cancelación de Actos Jurídicos (Registro Público de la Propi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,105.0,87.1
+peso_sobre_tiempo,47,976,Depósito de Testamento Ológrafo (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,107.0,89.1
+peso_sobre_tiempo,48,980,Devolución de un Documento sin Inscripción por Causas No Imp,Dirección General del Instituto de la Función Registral,1.5,17.9,3.0,108.5,90.6
+peso_sobre_tiempo,49,989,Certificado de Única Propiedad (Registro Público de la Propi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,110.5,92.6
+peso_sobre_tiempo,50,990,Expedición de Copias Certificadas en Libros (del año 2015 y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,112.5,94.6
+peso_sobre_tiempo,51,991,Informes sobre Inscripción de Testamentos (Registro Público ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,114.5,96.6
+peso_sobre_tiempo,52,996,Inscripción de Actas de Asamblea de Socios o Juntas de admin,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,116.5,98.6
+peso_sobre_tiempo,53,997,"Inscripción de Actos Mercantiles, Rectificación (Registro Pú",Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,118.5,100.6
+peso_sobre_tiempo,54,998,Inscripción de Apeo o Deslinde. (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,120.5,102.6
+peso_sobre_tiempo,55,1000,Inscripción de Aportaciones de Bienes Inmuebles. (Registro P,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,123.0,105.1
+peso_sobre_tiempo,56,1002,Inscripción de Compra-Venta a Plazos con Reserva de Dominio.,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,125.5,107.6
+peso_sobre_tiempo,57,1003,Inscripción de Contratos que Transmiten la Propiedad de Mueb,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,128.0,110.1
+peso_sobre_tiempo,58,1010,Inscripción de División de Copropiedad. (Registro Público de,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,130.5,112.6
+peso_sobre_tiempo,59,1044,Inscripción de Fusión de Predios. (Registro Público de la Pr,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,133.0,115.1
+peso_sobre_tiempo,60,1056,Inscripción de Limitaciones o Gravámenes a la Propiedad de I,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,135.5,117.6
+peso_sobre_tiempo,61,1062,Inscripción de Resoluciones de Información Ad Perpetuam. (Re,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,138.0,120.1
+peso_sobre_tiempo,62,1068,Inscripción de Régimen de Propiedad en Condominio. (Registro,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,140.5,122.6
+peso_sobre_tiempo,63,11186,Atención Integral para personas con discapacidad,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,144.0,131.1
+peso_sobre_tiempo,64,11217,Interpretación de Lengua de Señas Mexicana,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,146.5,133.6
+peso_sobre_tiempo,65,7632,"Componente Rehabilitación, Tecnificación y Equipamiento de U",Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,150.0,132.1
+peso_sobre_tiempo,66,8865,Asistencia Técnica y Capacitación Pecuaria.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,152.5,134.6
+peso_sobre_tiempo,67,8867,Siembra de Crías de Peces.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,155.0,137.1
+peso_sobre_tiempo,68,9075,"Asesoría técnica, especializada en agricultura sustentable.",Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,157.5,139.6
+peso_sobre_tiempo,69,933,"Doble nacionalidad ""Ya Soy Hidalguense"" (Totalmente gratuito",Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,161.0,148.1
+peso_sobre_tiempo,70,959,Traslados de Restos Mortuorios,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,163.5,150.6
+peso_sobre_tiempo,71,983,Certificado de Existencia o Inexistencia de Gravamen (Regist,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,167.0,149.1
+peso_sobre_tiempo,72,993,Inscripción de Accesión de Terrenos Rústicos (Registro Públi,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,169.5,151.6
+peso_sobre_tiempo,73,1005,Inscripción de Créditos Refaccionarios de Habilitación o Aví,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,171.5,153.6
+peso_sobre_tiempo,74,1007,Inscripción de Cualquier Otro Título Registrable Conforme a ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,173.5,155.6
+peso_sobre_tiempo,75,1011,Inscripción de Documentos de Valor Determinado Referente a S,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,175.5,157.6
+peso_sobre_tiempo,76,1013,"Inscripción de Emisión de Obligaciones, Acciones, Cédula y C",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,177.5,159.6
+peso_sobre_tiempo,77,1046,Inscripción de Informaciones Posesorías. (Registro Público d,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,179.5,161.6
+peso_sobre_tiempo,78,1050,Inscripción de la Cancelación de Créditos Otorgados por Inst,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,181.5,163.6
+peso_sobre_tiempo,79,1057,Inscripción de Operaciones que Limiten o Graven Bienes Inmue,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,183.5,165.6
+peso_sobre_tiempo,80,1065,Inscripción de Suspensión de Pagos o Declaración de Concurso,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,185.5,167.6
+peso_sobre_tiempo,81,1096,Sustitución del Cargo de Albacea. (Registro Público de la Pr,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,187.5,169.6
+peso_sobre_tiempo,82,11213,"Inscripción de la Disolución, liquidación y de Ambas cuando ",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,189.5,171.6
+peso_sobre_tiempo,83,11368,Apoyo Economico a Personas Migrantes Hidalguenses en Materia,Secretaría de Bienestar e Inclusión Social,2.0,12.9,3.0,192.5,179.6
+peso_sobre_tiempo,84,11373,Apoyo Económico para Migrantes Hidalguenses por Vulnerabilid,Secretaría de Bienestar e Inclusión Social,2.0,12.9,3.0,194.5,181.6
+peso_sobre_tiempo,85,1572,Constitución de Grupos de Productores/as de Leche.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,197.5,179.6
+peso_sobre_tiempo,86,1573,Capacitación en Nutrición y Manejo de Ganado Lechero.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,199.5,181.6
+peso_sobre_tiempo,87,1780,Laboratorio de Constatación de Leche.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,201.5,183.6
+peso_sobre_tiempo,88,5048,Inscripción de Actos Cuando se Presenten en Documentos Separ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,204.5,186.6
+peso_sobre_tiempo,89,5061,"Por cada Foja Digitalizada, Archivo Informático y Disco Ópti",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,206.5,188.6
+peso_sobre_tiempo,90,5211,Servicios de Fisioterapia y Rehabilitación (SG/CDM/DAS/05),Ciudad de las Mujeres,2.0,26.4,3.0,209.5,183.1
+peso_sobre_tiempo,91,6256,Atención de Trabajo Social a Mujeres en Situación de Violenc,Ciudad de las Mujeres,2.0,26.4,3.0,211.5,185.1
+peso_sobre_tiempo,92,7477,Recurso de Revocación Federal,Secretaría de Hacienda,2.0,41.4,3.0,214.5,173.1
+peso_sobre_tiempo,93,7492,Pago de Créditos Fiscales derivado de multas estatales no fi,Secretaría de Hacienda,2.0,41.4,3.0,216.5,175.1
+peso_sobre_tiempo,94,7628,"Componente Rehabilitación, Tecnificación y Equipamiento de D",Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,219.5,201.6
+peso_sobre_tiempo,95,8181,Servicios de Trabajo Social,Ciudad de las Mujeres,2.0,26.4,3.0,222.5,196.1
+peso_sobre_tiempo,96,8340,Atención Psicológica a Mujeres en Situación de Violencia de ,Ciudad de las Mujeres,2.0,26.4,3.0,224.5,198.1
+peso_sobre_tiempo,97,8685,Servicios Auxiliar Diagnóstico,Ciudad de las Mujeres,2.0,26.4,3.0,226.5,200.1
+peso_sobre_tiempo,98,973,Cotejo de Documentos No Autentificados que deben Destinarse ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,229.5,211.6
+peso_sobre_tiempo,99,1009,Inscripción de Disolución de la Sociedad Conyugal en lo Refe,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,232.5,214.6
+peso_sobre_tiempo,100,1047,Inscripción de Inmatriculación. (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,235.5,217.6
+peso_sobre_tiempo,101,1048,Inscripción de la Autorización para Vender o Gravar Bienes d,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,238.5,220.6
+peso_sobre_tiempo,102,1066,Inscripción de Todas las Operaciones que Impliquen Transmisi,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,241.5,223.6
+peso_sobre_tiempo,103,11895,Uso de la Plataforma Naturalista,Comisión Estatal de Biodiversidad de Hidalgo,1.5,12.1,2.0,244.0,231.9
+peso_sobre_tiempo,104,1547,Levantamiento Topográfico de poligonales (Catastral),Instituto Catastral,3.0,36.4,4.0,248.0,211.6
+peso_sobre_tiempo,105,1706,Declaración de Impuestos Estatales,Secretaría de Hacienda,3.0,41.4,4.0,252.0,210.6
+peso_sobre_tiempo,106,674,Capacitación Acuícola y Pesquera,Secretaría de Agricultura y Desarrollo Rural,3.0,17.9,4.0,256.0,238.1
+peso_sobre_tiempo,107,8686,Recepción de la Niñez y Mujeres que soliciten los servicios ,Ciudad de las Mujeres,1.5,26.4,2.0,258.5,232.1
+peso_sobre_tiempo,108,8688,Servicios de Sensibilización y desarrollo de habilidades par,Ciudad de las Mujeres,1.5,26.4,2.0,260.0,233.6
+peso_sobre_tiempo,109,9974,Préstamo con maquinaria especializada para la nivelación de ,Secretaría de Agricultura y Desarrollo Rural,3.0,17.9,4.0,264.0,246.1
+peso_sobre_tiempo,110,10079,Refrendo anual perito topográfo,Instituto Catastral,2.5,36.4,3.0,267.5,231.1
+peso_sobre_tiempo,111,11185,Formación con perspectiva de discapacidad,Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,271.0,258.1
+peso_sobre_tiempo,112,11367,Apoyo Económico para Documentos Internacionales,Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,273.5,260.6
+peso_sobre_tiempo,113,1574,Capacitación en Inseminación Artificial en Bovinos leche.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,3.0,277.0,259.1
+peso_sobre_tiempo,114,1625,"Servicios de Información a Actores Sociales, Integrantes de ",Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,280.5,267.6
+peso_sobre_tiempo,115,5041,Inscripción De las Demás Zonas por división (Registro Públic,Dirección General del Instituto de la Función Registral,2.5,17.9,3.0,284.0,266.1
+peso_sobre_tiempo,116,5351,Asesoría de Emprendimiento y Autoempleo,Ciudad de las Mujeres,2.5,26.4,3.0,287.5,261.1
+peso_sobre_tiempo,117,5419,Asesoría para el Ingreso al Empleo Formal,Ciudad de las Mujeres,2.5,26.4,3.0,290.0,263.6
+peso_sobre_tiempo,118,5420,Servicios de Capacitación y Actividades para el Desarrollo y,Ciudad de las Mujeres,2.5,26.4,3.0,292.5,266.1
+peso_sobre_tiempo,119,7629,Componente Equipamiento de Distritos de Riego.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,3.0,296.0,278.1
+peso_sobre_tiempo,120,8863,Asesoría presencial y a distancia para la Constitución de So,Secretaría de Agricultura y Desarrollo Rural,2.5,19.3,3.0,298.5,279.2
+peso_sobre_tiempo,121,8952,Credencial de Afiliación del IAAMEH,Instituto para la Atención de las y los Adultos Mayores,2.5,19.3,3.0,302.0,282.7
+peso_sobre_tiempo,122,992,Inscripción de Accesión de Construcciones (Registro Público ,Dirección General del Instituto de la Función Registral,2.5,17.9,3.0,305.5,287.6
+peso_sobre_tiempo,123,1715,Pago de Créditos Fiscales Estatales,Secretaría de Hacienda,3.5,41.4,4.0,310.0,268.6
+peso_sobre_tiempo,124,987,Certificado de No Inscripción (Registro Público de la Propie,Dirección General del Instituto de la Función Registral,3.5,17.9,4.0,314.5,296.6
+peso_sobre_tiempo,125,10059,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,317.5,317.5
+peso_sobre_tiempo,126,10058,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,319.5,319.5
+peso_sobre_tiempo,127,10060,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,321.5,321.5
+peso_sobre_tiempo,128,10063,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,323.5,323.5
+peso_sobre_tiempo,129,10062,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,325.5,325.5
+peso_sobre_tiempo,130,10981,"Inscripción de la Designación, Aceptación o Discernimiento d",Dirección General del Instituto de la Función Registral,2.0,17.9,2.0,328.5,310.6
+peso_sobre_tiempo,131,11827,ANÁLISIS FÍSICO QUÍMICO Y BACTERIOLÓGICO DEL AGUA,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,2.0,331.5,314.4
+peso_sobre_tiempo,132,1185,Registro de Marca,Secretaría de Bienestar e Inclusión Social,4.0,12.9,4.0,336.5,323.6
+peso_sobre_tiempo,133,12029,Entidad de Certificación y Evaluación Instituto Hidalguense ,Instituto Hidalguense para el Desarrollo Municipal,2.0,39.3,2.0,339.5,300.2
+peso_sobre_tiempo,134,8184,Servicios orientados al bienestar de la Niñez.,Ciudad de las Mujeres,2.0,26.4,2.0,342.5,316.1
+peso_sobre_tiempo,135,11120,Bienestar de Madres Trabajadoras,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,348.0,335.1
+peso_sobre_tiempo,136,11366,Programa de Subsidio al Servicio de Verificación Vehicular,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,352.5,339.6
+peso_sobre_tiempo,137,11372,Bienestar de Personas Cuidadoras de Personas con Discapacida,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,357.0,344.1
+peso_sobre_tiempo,138,1717,Pago de Créditos Fiscales Federales Coordinados,Secretaría de Hacienda,4.5,41.4,4.0,362.5,321.1
+peso_sobre_tiempo,139,1188,Asignación de espacios (Punto de venta HIDARTE),Secretaría de Bienestar e Inclusión Social,5.0,12.9,4.0,368.5,355.6
+peso_sobre_tiempo,140,7490,Pago a plazos o en parcialidades de Créditos Fiscales radica,Secretaría de Hacienda,4.0,41.4,3.0,373.5,332.1
+peso_sobre_tiempo,141,11187,"Invierte en ti, Invierte en Hidalgo",Secretaría de Bienestar e Inclusión Social,5.5,12.9,4.0,380.0,367.1
+peso_sobre_tiempo,142,7694,"Reencuentro Familiar ""Raices Hidalgo""",Secretaría de Bienestar e Inclusión Social,5.5,12.9,4.0,385.5,372.6
+peso_sobre_tiempo,143,10057,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,389.5,389.5
+peso_sobre_tiempo,144,10040,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,392.5,392.5
+peso_sobre_tiempo,145,10064,Solicitud de factibilidad para la contratación del servicio ,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,395.5,395.5
+peso_sobre_tiempo,146,12012,Emisión de factura CFDI.,Comisión Estatal de Agua y Alcantarillado,3.0,38.6,2.0,399.5,360.9
+peso_sobre_tiempo,147,7697,"Oficina Itinerante ""Primero el Pueblo, Primero los Migrantes",Secretaría de Bienestar e Inclusión Social,6.0,12.9,4.0,406.5,393.6
+peso_sobre_tiempo,148,1186,Asignación de espacios eventos y exposiciones Municipales,Secretaría de Bienestar e Inclusión Social,5.0,12.9,3.0,411.5,398.6
+peso_sobre_tiempo,149,1189,Certificados de autenticidad de productos artesanales,Secretaría de Bienestar e Inclusión Social,5.0,29.3,3.0,416.5,387.2
+peso_sobre_tiempo,150,6251,Atención Jurídica en Materia Familiar y Penal a Mujeres en S,Ciudad de las Mujeres,5.0,26.4,3.0,422.5,396.1
+peso_sobre_tiempo,151,10061,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,1.0,425.5,425.5
+peso_sobre_tiempo,152,11216,Inscripción o Anotación que no Modifica el Derecho Inscrito ,Dirección General del Instituto de la Función Registral,2.0,17.9,1.0,428.5,410.6
+peso_sobre_tiempo,153,1502,"Reportes, Quejas y Sugerencias del Servicio Tuzobús",Sistema de Transporte Masivo de Hidalgo,9.0,37.9,4.0,438.5,400.6
+peso_sobre_tiempo,154,10041,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,1.0,442.5,442.5
+peso_sobre_tiempo,155,9919,Garantias del Interes Fiscal (Estatal),Secretaría de Hacienda,16.0,41.4,3.0,459.5,418.1
+algoritmo genético,1,609,Entrega de paquetes de Conejos.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,3.5,0.0
+algoritmo genético,2,10661,Servicios y Entrega de Apoyos sobre la Cadena Productiva Caf,Secretaría de Agricultura y Desarrollo Rural,1.5,17.9,4.0,5.0,0.0
+algoritmo genético,3,10107,Constancia de Servicio Social (ITSOEH),Instituto Tecnológico Superior del Occidente del Estado de Hidalgo,2.0,12.1,4.0,8.0,0.0
+algoritmo genético,4,986,Certificado de Inscripción (Registro Público de la Propiedad,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,11.5,0.0
+algoritmo genético,5,1067,Inscripción del Auto de Ejecución de Embargo. (Registro Públ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,13.5,0.0
+algoritmo genético,6,1070,Inscripción por Asociación en Participación. (Registro Públi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,15.5,0.0
+algoritmo genético,7,11837,Por búsqueda de antecedentes registrales a nombre de persona,Dirección General del Instituto de la Función Registral,1.5,17.9,4.0,17.0,0.0
+algoritmo genético,8,5055,Certificaciones. (Registro Público de la Propiedad y del Com,Dirección General del Instituto de la Función Registral,1.5,17.9,4.0,18.5,0.6000000000000014
+algoritmo genético,9,1004,"Inscripción de Convenios para Fraccionar, Lotificar o Subdiv",Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,20.5,2.6000000000000014
+algoritmo genético,10,1063,Inscripción de Revocación o Renuncia de Poderes. (Registro P,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,22.5,4.600000000000001
+algoritmo genético,11,1073,Inscripción en Repudio de Herencia. (Registro Público de la ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,24.5,6.600000000000001
+algoritmo genético,12,1071,Inscripción por Constitución del Patrimonio Familiar. (Regis,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,26.5,8.600000000000001
+algoritmo genético,13,1014,Inscripción de Escrituras Constitutivas de Personas Morales ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,28.5,10.600000000000001
+algoritmo genético,14,1006,Inscripción de Cualquier Clase de Testamento. (Registro Públ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,30.5,12.600000000000001
+algoritmo genético,15,1045,Inscripción de Fusión de Sociedades. (Registro Público de la,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,32.5,14.600000000000001
+algoritmo genético,16,1053,Inscripción de la Modificación al Acta Constitutiva que no I,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,34.5,16.6
+algoritmo genético,17,1074,Ratificación de firmas. (Registro Público de la Propiedad y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,36.5,18.6
+algoritmo genético,18,5056,Cancelación de Inscripción. (Registro Público de la Propieda,Dirección General del Instituto de la Función Registral,1.5,17.9,3.0,38.0,20.1
+algoritmo genético,19,990,Expedición de Copias Certificadas en Libros (del año 2015 y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,40.0,22.1
+algoritmo genético,20,1058,Inscripción de Poderes Civiles y Sustituciones (Registro Púb,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,42.0,24.1
+algoritmo genético,21,989,Certificado de Única Propiedad (Registro Público de la Propi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,44.0,26.1
+algoritmo genético,22,1059,Inscripción de Poderes. (Registro Público de la Propiedad y ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,46.0,28.1
+algoritmo genético,23,998,Inscripción de Apeo o Deslinde. (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,48.0,30.1
+algoritmo genético,24,1061,Inscripción de Providencias Precautorias de Carácter Mercant,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,50.0,32.1
+algoritmo genético,25,1003,Inscripción de Contratos que Transmiten la Propiedad de Mueb,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,52.5,34.6
+algoritmo genético,26,983,Certificado de Existencia o Inexistencia de Gravamen (Regist,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,55.0,37.1
+algoritmo genético,27,997,"Inscripción de Actos Mercantiles, Rectificación (Registro Pú",Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,57.0,39.1
+algoritmo genético,28,5418,Trámites Ciudadanos,Ciudad de las Mujeres,2.5,26.4,4.0,60.5,34.1
+algoritmo genético,29,10824,Servicios de Ginecología,Ciudad de las Mujeres,1.5,26.4,3.0,62.0,35.6
+algoritmo genético,30,5087,Servicios de Nutrición,Ciudad de las Mujeres,1.5,26.4,3.0,63.5,37.1
+algoritmo genético,31,5089,Servicios de Odotología,Ciudad de las Mujeres,1.5,26.4,3.0,65.0,38.6
+algoritmo genético,32,5091,Servicios de Psicología,Ciudad de las Mujeres,1.5,26.4,3.0,66.5,40.1
+algoritmo genético,33,10941,Apoyo Para el Bienestar y Desarrollo,Secretaría de Bienestar e Inclusión Social,3.5,12.9,4.0,71.0,58.1
+algoritmo genético,34,10926,Padrón de las personas artesanas Hidalguenses,Secretaría de Bienestar e Inclusión Social,2.0,12.9,4.0,73.0,60.1
+algoritmo genético,35,11371,Apoyo Económico a Migrantes Hidalguenses por Repatriación o ,Secretaría de Bienestar e Inclusión Social,2.0,12.9,4.0,75.0,62.1
+algoritmo genético,36,1575,Capacitación en elaboración de quesos y derivados lácteos.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,4.0,78.0,60.1
+algoritmo genético,37,1781,Captación de Leche en Centros de Acopio.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,4.0,80.0,62.1
+algoritmo genético,38,8687,"Orientación a Mujeres, que soliciten los servicios brindados",Ciudad de las Mujeres,1.5,26.4,3.0,82.5,56.1
+algoritmo genético,39,5077,Servicios de Medicina General.,Ciudad de las Mujeres,1.5,26.4,3.0,84.0,57.6
+algoritmo genético,40,5205,Consejería en Salud Sexual y Reproductiva para Mujeres Jóven,Ciudad de las Mujeres,1.5,26.4,3.0,85.5,59.1
+algoritmo genético,41,5206,Servicios de Psicología para Mujeres Jóvenes.,Ciudad de las Mujeres,1.5,26.4,3.0,87.0,60.6
+algoritmo genético,42,5207,Orientación Vocacional a Mujeres Jóvenes.,Ciudad de las Mujeres,1.5,26.4,3.0,88.5,62.1
+algoritmo genético,43,5212,Servicios que promueven la Igualdad entre Mujeres y Hombres,Ciudad de las Mujeres,1.5,26.4,3.0,90.0,63.6
+algoritmo genético,44,5343,Atención Temporal a Niñas y Niños acompañantes de usuarias,Ciudad de las Mujeres,1.5,26.4,3.0,91.5,65.1
+algoritmo genético,45,8689,"Asesorias a Mujeres Jóvenes, que soliciten los servicios bri",Ciudad de las Mujeres,1.5,26.4,3.0,93.0,66.6
+algoritmo genético,46,565,Visitas de Factibilidad para: Estudio y Proyecto de Agua Pot,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,4.0,96.0,78.9
+algoritmo genético,47,11158,Impuesto sobre Tenencia y Refrendo Vehicular (transporte púb,Secretaría de Hacienda,6.0,41.4,4.0,103.0,61.6
+algoritmo genético,48,7449,Recurso de Revocación Estatal,Secretaría de Hacienda,2.0,41.4,4.0,105.0,63.6
+algoritmo genético,49,1415,Expedición de actas de nacimiento interestatales.,Secretaría de Gobierno,1.5,16.4,3.0,107.5,91.1
+algoritmo genético,50,7679,Transporte Público Masivo de Pasajeros Tuzobús.,Sistema de Transporte Masivo de Hidalgo,2.0,37.9,4.0,110.5,72.6
+algoritmo genético,51,8682,Acompañamiento y/o Asistencia a la salud a Mujeres en Situac,Ciudad de las Mujeres,1.5,26.4,3.0,113.0,86.6
+algoritmo genético,52,971,Cancelación de Actos Jurídicos (Registro Público de la Propi,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,116.0,98.1
+algoritmo genético,53,976,Depósito de Testamento Ológrafo (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,118.0,100.1
+algoritmo genético,54,980,Devolución de un Documento sin Inscripción por Causas No Imp,Dirección General del Instituto de la Función Registral,1.5,17.9,3.0,119.5,101.6
+algoritmo genético,55,991,Informes sobre Inscripción de Testamentos (Registro Público ,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,121.5,103.6
+algoritmo genético,56,996,Inscripción de Actas de Asamblea de Socios o Juntas de admin,Dirección General del Instituto de la Función Registral,2.0,17.9,4.0,123.5,105.6
+algoritmo genético,57,1044,Inscripción de Fusión de Predios. (Registro Público de la Pr,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,126.0,108.1
+algoritmo genético,58,1000,Inscripción de Aportaciones de Bienes Inmuebles. (Registro P,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,128.5,110.6
+algoritmo genético,59,1005,Inscripción de Créditos Refaccionarios de Habilitación o Aví,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,130.5,112.6
+algoritmo genético,60,1002,Inscripción de Compra-Venta a Plazos con Reserva de Dominio.,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,133.0,115.1
+algoritmo genético,61,1010,Inscripción de División de Copropiedad. (Registro Público de,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,135.5,117.6
+algoritmo genético,62,1056,Inscripción de Limitaciones o Gravámenes a la Propiedad de I,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,138.0,120.1
+algoritmo genético,63,1062,Inscripción de Resoluciones de Información Ad Perpetuam. (Re,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,140.5,122.6
+algoritmo genético,64,1068,Inscripción de Régimen de Propiedad en Condominio. (Registro,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,143.0,125.1
+algoritmo genético,65,11186,Atención Integral para personas con discapacidad,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,146.5,133.6
+algoritmo genético,66,933,"Doble nacionalidad ""Ya Soy Hidalguense"" (Totalmente gratuito",Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,149.0,136.1
+algoritmo genético,67,11217,Interpretación de Lengua de Señas Mexicana,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,151.5,138.6
+algoritmo genético,68,7632,"Componente Rehabilitación, Tecnificación y Equipamiento de U",Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,155.0,137.1
+algoritmo genético,69,8865,Asistencia Técnica y Capacitación Pecuaria.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,157.5,139.6
+algoritmo genético,70,1572,Constitución de Grupos de Productores/as de Leche.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,159.5,141.6
+algoritmo genético,71,8867,Siembra de Crías de Peces.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,162.0,144.1
+algoritmo genético,72,9075,"Asesoría técnica, especializada en agricultura sustentable.",Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,4.0,164.5,146.6
+algoritmo genético,73,1780,Laboratorio de Constatación de Leche.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,166.5,148.6
+algoritmo genético,74,1573,Capacitación en Nutrición y Manejo de Ganado Lechero.,Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,168.5,150.6
+algoritmo genético,75,11373,Apoyo Económico para Migrantes Hidalguenses por Vulnerabilid,Secretaría de Bienestar e Inclusión Social,2.0,12.9,3.0,171.5,158.6
+algoritmo genético,76,959,Traslados de Restos Mortuorios,Secretaría de Bienestar e Inclusión Social,2.5,12.9,4.0,174.0,161.1
+algoritmo genético,77,993,Inscripción de Accesión de Terrenos Rústicos (Registro Públi,Dirección General del Instituto de la Función Registral,2.5,17.9,4.0,177.5,159.6
+algoritmo genético,78,5061,"Por cada Foja Digitalizada, Archivo Informático y Disco Ópti",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,179.5,161.6
+algoritmo genético,79,1048,Inscripción de la Autorización para Vender o Gravar Bienes d,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,182.5,164.6
+algoritmo genético,80,1007,Inscripción de Cualquier Otro Título Registrable Conforme a ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,184.5,166.6
+algoritmo genético,81,1011,Inscripción de Documentos de Valor Determinado Referente a S,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,186.5,168.6
+algoritmo genético,82,1013,"Inscripción de Emisión de Obligaciones, Acciones, Cédula y C",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,188.5,170.6
+algoritmo genético,83,1057,Inscripción de Operaciones que Limiten o Graven Bienes Inmue,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,190.5,172.6
+algoritmo genético,84,1046,Inscripción de Informaciones Posesorías. (Registro Público d,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,192.5,174.6
+algoritmo genético,85,1050,Inscripción de la Cancelación de Créditos Otorgados por Inst,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,194.5,176.6
+algoritmo genético,86,1009,Inscripción de Disolución de la Sociedad Conyugal en lo Refe,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,197.5,179.6
+algoritmo genético,87,1065,Inscripción de Suspensión de Pagos o Declaración de Concurso,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,199.5,181.6
+algoritmo genético,88,1096,Sustitución del Cargo de Albacea. (Registro Público de la Pr,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,201.5,183.6
+algoritmo genético,89,992,Inscripción de Accesión de Construcciones (Registro Público ,Dirección General del Instituto de la Función Registral,2.5,17.9,3.0,204.0,186.1
+algoritmo genético,90,11213,"Inscripción de la Disolución, liquidación y de Ambas cuando ",Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,206.0,188.1
+algoritmo genético,91,11368,Apoyo Economico a Personas Migrantes Hidalguenses en Materia,Secretaría de Bienestar e Inclusión Social,2.0,12.9,3.0,209.0,196.1
+algoritmo genético,92,1625,"Servicios de Información a Actores Sociales, Integrantes de ",Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,211.5,198.6
+algoritmo genético,93,9974,Préstamo con maquinaria especializada para la nivelación de ,Secretaría de Agricultura y Desarrollo Rural,3.0,17.9,4.0,215.5,197.6
+algoritmo genético,94,7628,"Componente Rehabilitación, Tecnificación y Equipamiento de D",Secretaría de Agricultura y Desarrollo Rural,2.0,17.9,3.0,217.5,199.6
+algoritmo genético,95,5048,Inscripción de Actos Cuando se Presenten en Documentos Separ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,220.5,202.6
+algoritmo genético,96,973,Cotejo de Documentos No Autentificados que deben Destinarse ,Dirección General del Instituto de la Función Registral,2.0,17.9,3.0,222.5,204.6
+algoritmo genético,97,8181,Servicios de Trabajo Social,Ciudad de las Mujeres,2.0,26.4,3.0,225.5,199.1
+algoritmo genético,98,5211,Servicios de Fisioterapia y Rehabilitación (SG/CDM/DAS/05),Ciudad de las Mujeres,2.0,26.4,3.0,227.5,201.1
+algoritmo genético,99,6256,Atención de Trabajo Social a Mujeres en Situación de Violenc,Ciudad de las Mujeres,2.0,26.4,3.0,229.5,203.1
+algoritmo genético,100,7477,Recurso de Revocación Federal,Secretaría de Hacienda,2.0,41.4,3.0,232.5,191.1
+algoritmo genético,101,7492,Pago de Créditos Fiscales derivado de multas estatales no fi,Secretaría de Hacienda,2.0,41.4,3.0,234.5,193.1
+algoritmo genético,102,1706,Declaración de Impuestos Estatales,Secretaría de Hacienda,3.0,41.4,4.0,237.5,196.1
+algoritmo genético,103,5351,Asesoría de Emprendimiento y Autoempleo,Ciudad de las Mujeres,2.5,26.4,3.0,241.0,214.6
+algoritmo genético,104,8340,Atención Psicológica a Mujeres en Situación de Violencia de ,Ciudad de las Mujeres,2.0,26.4,3.0,243.0,216.6
+algoritmo genético,105,8688,Servicios de Sensibilización y desarrollo de habilidades par,Ciudad de las Mujeres,1.5,26.4,2.0,244.5,218.1
+algoritmo genético,106,8685,Servicios Auxiliar Diagnóstico,Ciudad de las Mujeres,2.0,26.4,3.0,246.5,220.1
+algoritmo genético,107,8686,Recepción de la Niñez y Mujeres que soliciten los servicios ,Ciudad de las Mujeres,1.5,26.4,2.0,248.0,221.6
+algoritmo genético,108,1066,Inscripción de Todas las Operaciones que Impliquen Transmisi,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,252.0,234.1
+algoritmo genético,109,1047,Inscripción de Inmatriculación. (Registro Público de la Prop,Dirección General del Instituto de la Función Registral,3.0,17.9,4.0,255.0,237.1
+algoritmo genético,110,987,Certificado de No Inscripción (Registro Público de la Propie,Dirección General del Instituto de la Función Registral,3.5,17.9,4.0,258.5,240.6
+algoritmo genético,111,10981,"Inscripción de la Designación, Aceptación o Discernimiento d",Dirección General del Instituto de la Función Registral,2.0,17.9,2.0,260.5,242.6
+algoritmo genético,112,11895,Uso de la Plataforma Naturalista,Comisión Estatal de Biodiversidad de Hidalgo,1.5,12.1,2.0,263.0,250.9
+algoritmo genético,113,11185,Formación con perspectiva de discapacidad,Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,266.5,253.6
+algoritmo genético,114,11367,Apoyo Económico para Documentos Internacionales,Secretaría de Bienestar e Inclusión Social,2.5,12.9,3.0,269.0,256.1
+algoritmo genético,115,5041,Inscripción De las Demás Zonas por división (Registro Públic,Dirección General del Instituto de la Función Registral,2.5,17.9,3.0,272.5,254.6
+algoritmo genético,116,5419,Asesoría para el Ingreso al Empleo Formal,Ciudad de las Mujeres,2.5,26.4,3.0,276.0,249.6
+algoritmo genético,117,5420,Servicios de Capacitación y Actividades para el Desarrollo y,Ciudad de las Mujeres,2.5,26.4,3.0,278.5,252.1
+algoritmo genético,118,8184,Servicios orientados al bienestar de la Niñez.,Ciudad de las Mujeres,2.0,26.4,2.0,280.5,254.1
+algoritmo genético,119,1547,Levantamiento Topográfico de poligonales (Catastral),Instituto Catastral,3.0,36.4,4.0,284.5,248.1
+algoritmo genético,120,10079,Refrendo anual perito topográfo,Instituto Catastral,2.5,36.4,3.0,287.0,250.6
+algoritmo genético,121,7629,Componente Equipamiento de Distritos de Riego.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,3.0,290.5,272.6
+algoritmo genético,122,674,Capacitación Acuícola y Pesquera,Secretaría de Agricultura y Desarrollo Rural,3.0,17.9,4.0,293.5,275.6
+algoritmo genético,123,8863,Asesoría presencial y a distancia para la Constitución de So,Secretaría de Agricultura y Desarrollo Rural,2.5,19.3,3.0,296.0,276.7
+algoritmo genético,124,1574,Capacitación en Inseminación Artificial en Bovinos leche.,Secretaría de Agricultura y Desarrollo Rural,2.5,17.9,3.0,298.5,280.6
+algoritmo genético,125,10059,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,301.5,301.5
+algoritmo genético,126,10058,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,303.5,303.5
+algoritmo genético,127,10060,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,305.5,305.5
+algoritmo genético,128,10063,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,307.5,307.5
+algoritmo genético,129,10062,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,309.5,309.5
+algoritmo genético,130,11827,ANÁLISIS FÍSICO QUÍMICO Y BACTERIOLÓGICO DEL AGUA,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,2.0,312.5,295.4
+algoritmo genético,131,12012,Emisión de factura CFDI.,Comisión Estatal de Agua y Alcantarillado,3.0,38.6,2.0,315.5,276.9
+algoritmo genético,132,1185,Registro de Marca,Secretaría de Bienestar e Inclusión Social,4.0,12.9,4.0,320.5,307.6
+algoritmo genético,133,11372,Bienestar de Personas Cuidadoras de Personas con Discapacida,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,325.0,312.1
+algoritmo genético,134,11366,Programa de Subsidio al Servicio de Verificación Vehicular,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,329.5,316.6
+algoritmo genético,135,1188,Asignación de espacios (Punto de venta HIDARTE),Secretaría de Bienestar e Inclusión Social,5.0,12.9,4.0,334.5,321.6
+algoritmo genético,136,7694,"Reencuentro Familiar ""Raices Hidalgo""",Secretaría de Bienestar e Inclusión Social,5.5,12.9,4.0,340.0,327.1
+algoritmo genético,137,8952,Credencial de Afiliación del IAAMEH,Instituto para la Atención de las y los Adultos Mayores,2.5,19.3,3.0,343.5,324.2
+algoritmo genético,138,11120,Bienestar de Madres Trabajadoras,Secretaría de Bienestar e Inclusión Social,4.5,12.9,4.0,349.0,336.1
+algoritmo genético,139,12029,Entidad de Certificación y Evaluación Instituto Hidalguense ,Instituto Hidalguense para el Desarrollo Municipal,2.0,39.3,2.0,352.0,312.7
+algoritmo genético,140,1715,Pago de Créditos Fiscales Estatales,Secretaría de Hacienda,3.5,41.4,4.0,356.5,315.1
+algoritmo genético,141,1717,Pago de Créditos Fiscales Federales Coordinados,Secretaría de Hacienda,4.5,41.4,4.0,361.0,319.6
+algoritmo genético,142,7490,Pago a plazos o en parcialidades de Créditos Fiscales radica,Secretaría de Hacienda,4.0,41.4,3.0,365.0,323.6
+algoritmo genético,143,11187,"Invierte en ti, Invierte en Hidalgo",Secretaría de Bienestar e Inclusión Social,5.5,12.9,4.0,371.5,358.6
+algoritmo genético,144,1189,Certificados de autenticidad de productos artesanales,Secretaría de Bienestar e Inclusión Social,5.0,29.3,3.0,376.5,347.2
+algoritmo genético,145,10057,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,380.5,380.5
+algoritmo genético,146,10040,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,383.5,383.5
+algoritmo genético,147,10064,Solicitud de factibilidad para la contratación del servicio ,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,386.5,386.5
+algoritmo genético,148,7697,"Oficina Itinerante ""Primero el Pueblo, Primero los Migrantes",Secretaría de Bienestar e Inclusión Social,6.0,12.9,4.0,393.5,380.6
+algoritmo genético,149,1186,Asignación de espacios eventos y exposiciones Municipales,Secretaría de Bienestar e Inclusión Social,5.0,12.9,3.0,398.5,385.6
+algoritmo genético,150,6251,Atención Jurídica en Materia Familiar y Penal a Mujeres en S,Ciudad de las Mujeres,5.0,26.4,3.0,404.5,378.1
+algoritmo genético,151,10061,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,1.0,407.5,407.5
+algoritmo genético,152,10041,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,1.0,410.5,410.5
+algoritmo genético,153,11216,Inscripción o Anotación que no Modifica el Derecho Inscrito ,Dirección General del Instituto de la Función Registral,2.0,17.9,1.0,413.5,395.6
+algoritmo genético,154,1502,"Reportes, Quejas y Sugerencias del Servicio Tuzobús",Sistema de Transporte Masivo de Hidalgo,9.0,37.9,4.0,423.5,385.6
+algoritmo genético,155,9919,Garantias del Interes Fiscal (Estatal),Secretaría de Hacienda,16.0,41.4,3.0,440.5,399.1

@@ -1,0 +1,27 @@
+metodo,orden,idtram,nombre,dependencia,p,d,w,C,T
+vencimiento,1,10059,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,3.0,3.0
+vencimiento,2,10057,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,6.0,6.0
+vencimiento,3,10040,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,9.0,9.0
+vencimiento,4,10041,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,1.0,12.0,12.0
+vencimiento,5,10058,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,14.0,14.0
+vencimiento,6,10060,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,16.0,16.0
+vencimiento,7,10061,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,1.0,18.0,18.0
+vencimiento,8,10063,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,20.0,20.0
+vencimiento,9,10062,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,22.0,22.0
+vencimiento,10,10064,Solicitud de factibilidad para la contratación del servicio ,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,25.0,25.0
+vencimiento,11,565,Visitas de Factibilidad para: Estudio y Proyecto de Agua Pot,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,4.0,28.0,10.899999999999999
+vencimiento,12,11827,ANÁLISIS FÍSICO QUÍMICO Y BACTERIOLÓGICO DEL AGUA,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,2.0,30.0,12.899999999999999
+vencimiento,13,12012,Emisión de factura CFDI.,Comisión Estatal de Agua y Alcantarillado,3.0,38.6,2.0,33.0,0.0
+óptimo,1,10059,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,3.0,3.0
+óptimo,2,10063,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,5.0,5.0
+óptimo,3,10062,Solicitud de baja temporal ó toma muerta del servicio de agu,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,7.0,7.0
+óptimo,4,10060,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,9.0,9.0
+óptimo,5,10058,"Descuento a adultos mayores, personas con capacidades difere",Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,2.0,11.0,11.0
+óptimo,6,10064,Solicitud de factibilidad para la contratación del servicio ,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,14.0,14.0
+óptimo,7,565,Visitas de Factibilidad para: Estudio y Proyecto de Agua Pot,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,4.0,17.0,0.0
+óptimo,8,11827,ANÁLISIS FÍSICO QUÍMICO Y BACTERIOLÓGICO DEL AGUA,Comisión Estatal de Agua y Alcantarillado,2.0,17.1,2.0,19.0,1.8999999999999986
+óptimo,9,10057,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,23.0,23.0
+óptimo,10,10040,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,2.0,26.0,26.0
+óptimo,11,10061,Instalación física de toma de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,2.0,0.0,1.0,28.0,28.0
+óptimo,12,10041,Cambio de nombre del titular de contrato de agua potable.,Comisión de Agua y Alcantarillado del Sistema Valle del Mezquital,3.0,0.0,1.0,31.0,31.0
+óptimo,13,12012,Emisión de factura CFDI.,Comisión Estatal de Agua y Alcantarillado,3.0,38.6,2.0,35.0,0.0

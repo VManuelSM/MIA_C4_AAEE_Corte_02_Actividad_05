@@ -1,0 +1,6 @@
+metodo,J,Cmax,tardanza_ponderada,alistamientos,fichas_a_tiempo,fichas,brecha_pct
+regla de vencimiento (a mano),68537.83,419.5,97311.90000000001,24,0,155,23.59845928037595
+mejor regla constructiva (peso_sobre_tiempo),58310.37,459.5,82644.1,64,7,155,5.154655349733942
+búsqueda aleatoria (corrida mediana),77718.12999999999,493.5,110320.9,98,6,155,40.15385555906808
+"algoritmo genético, Claves reales, inicio aleatorio (corrida mediana, semilla 20261110)",60759.810000000005,445.5,86163.30000000002,50,7,155,9.571880261869682
+"algoritmo genético, Claves reales, inicio híbrido (corrida mediana, semilla 20261103)",56118.079999999994,440.5,79539.4,45,7,155,1.2011647548934519
